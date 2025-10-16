@@ -52,7 +52,8 @@ Developed by AKILA S: RegisterNumber:25018659
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
 
-<img width="1042" height="130" alt="image" src="https://github.com/user-attachments/assets/708cc89e-5a9e-45a0-81bb-c49f4ad1bd3e" />
+<img width="1495" height="431" alt="image" src="https://github.com/user-attachments/assets/3ffd9936-af99-478c-a3da-eff58c0559f8" />
+
 
 
 **RESULTS**
